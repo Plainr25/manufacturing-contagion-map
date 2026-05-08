@@ -9,7 +9,7 @@ This repository bridges institutional supply chain taxonomies (NAICS) with finan
 <img width="2475" height="1468" alt="image" src="https://github.com/user-attachments/assets/93795805-36c1-4d63-a0a4-a336227b573d" />
 
 
-![Contagion Visualizer Dashboard](./visualizer_screenshot.png)
+![Contagion Visualizer Dashboard]
 
 ## 📦 What's Included in the Drop?
 
