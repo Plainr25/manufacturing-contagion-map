@@ -1,15 +1,12 @@
 # 🌐 NAICS Contagion Map: The Physical Economy Visualized
 
-<a href="https://a7af2a54.sibforms.com/serve/MUIFAK4KiE6r-UBeNPKiGd_hFht_dPE_p8oCs2NOx53N8abu_SQe9HTVgRxIlg4HlA9cOsVmYs2pkeAZHGZ0XlDh2RBLa_bZZLLiaXPKpUTjgr72heyx-lYwgPb0B8dnkWsj7lw-M1jEOnzP7Oc8o12c0SG3UYsmQZRaWacaAWgweWru9S9fWYne4o43aByc7BqGSjRvnZcHXYcQ" target="_blank"><h2>🚀 Join the June 2026 Beta</h2></a>
+## [🚀 Join the June 2026 Beta](https://a7af2a54.sibforms.com/serve/MUIFAK4KiE6r-UBeNPKiGd_hFht_dPE_p8oCs2NOx53N8abu_SQe9HTVgRxIlg4HlA9cOsVmYs2pkeAZHGZ0XlDh2RBLa_bZZLLiaXPKpUTjgr72heyx-lYwgPb0B8dnkWsj7lw-M1jEOnzP7Oc8o12c0SG3UYsmQZRaWacaAWgweWru9S9fWYne4o43aByc7BqGSjRvnZcHXYcQ)
 
 Welcome to the **NAICS Contagion Intelligence Map** — an open-source pipeline mapping the vulnerability cascades of the physical economy. 
 
 This repository bridges institutional supply chain taxonomies (NAICS) with financial market frameworks (GICS) to visualize how disruptions in upstream raw materials systematically ripple down to consumer goods.
 
-<img width="2475" height="1468" alt="image" src="https://github.com/user-attachments/assets/93795805-36c1-4d63-a0a4-a336227b573d" />
-
-
-Contagion Visualizer Dashboard
+![Contagion Visualizer Dashboard](visualizer_screenshot.png)
 
 ## 📦 What's Included in the Drop?
 
