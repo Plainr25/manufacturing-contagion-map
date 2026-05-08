@@ -4,7 +4,7 @@
 
 Welcome to the **NAICS Contagion Intelligence Map** — an open-source pipeline mapping the vulnerability cascades of the physical economy. 
 
-This repository bridges institutional supply chain taxonomies (NAICS) with financial market frameworks (GICS) to visualize how disruptions in upstream raw materials systematically ripple down to consumer goods.
+This repository bridges institutional supply chain taxonomies (NAICS) with financial market frameworks (GICS) to visualize how disruptions in upstream raw materials (Tier 4) systematically ripple down through the chain to Tier 3 nodes (Sub-Components / Basic Mfg) then to Tier 2 (Intermediate Processors) and finally Tier 1 (Direct Suppliers / OEMs)
 
 <img width="2475" height="1468" alt="image" src="https://github.com/user-attachments/assets/0daad354-8b64-4087-a03d-467fd0a34d01" />
 
