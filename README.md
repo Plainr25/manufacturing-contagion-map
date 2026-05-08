@@ -6,6 +6,9 @@ Welcome to the **NAICS Contagion Intelligence Map** — an open-source pipeline 
 
 This repository bridges institutional supply chain taxonomies (NAICS) with financial market frameworks (GICS) to visualize how disruptions in upstream raw materials systematically ripple down to consumer goods.
 
+<img width="2475" height="1468" alt="image" src="https://github.com/user-attachments/assets/93795805-36c1-4d63-a0a4-a336227b573d" />
+
+
 ![Contagion Visualizer Dashboard](./visualizer_screenshot.png)
 
 ## 📦 What's Included in the Drop?
