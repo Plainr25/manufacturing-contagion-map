@@ -1,0 +1,1102 @@
+Source Node,Source Tier,Target Node,Target Tier,Edge Type
+Crude Oil,Tier 4,Fats and Oils Refining and Blending ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Fats and Oils Refining and Blending ,Tier 2,Raw Material Flow
+Platinum,Tier 4,Fats and Oils Refining and Blending ,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills ",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Petroleum Refineries,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Petroleum Refineries,Tier 2,Raw Material Flow
+Platinum,Tier 4,Petroleum Refineries,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Raw Material Flow
+Platinum,Tier 4,Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,All Other Petroleum and Coal Products Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,All Other Petroleum and Coal Products Manufacturing ,Tier 2,Raw Material Flow
+Platinum,Tier 4,All Other Petroleum and Coal Products Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Petrochemical Manufacturing,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Petrochemical Manufacturing,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Industrial Gas Manufacturing,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Industrial Gas Manufacturing,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Synthetic Dye and Pigment Manufacturing,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Synthetic Dye and Pigment Manufacturing,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Other Basic Inorganic Chemical Manufacturing ,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Other Basic Inorganic Chemical Manufacturing ,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Ethyl Alcohol Manufacturing ,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Ethyl Alcohol Manufacturing ,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Raw Material Flow
+Natural Gas,Tier 4,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Raw Material Flow
+Crude Oil,Tier 4,All Other Basic Organic Chemical Manufacturing ,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,All Other Basic Organic Chemical Manufacturing ,Tier 3,Raw Material Flow
+Polypropylene,Tier 4,Plastics Material and Resin Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Material and Resin Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Material and Resin Manufacturing ,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,Synthetic Rubber Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Synthetic Rubber Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Synthetic Rubber Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Artificial and Synthetic Fibers and Filaments Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Artificial and Synthetic Fibers and Filaments Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Nitrogenous Fertilizer Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Nitrogenous Fertilizer Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Phosphatic Fertilizer Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Phosphatic Fertilizer Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Fertilizer (Mixing Only) Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Fertilizer (Mixing Only) Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Compost Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Compost Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Pesticide and Other Agricultural Chemical Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Pesticide and Other Agricultural Chemical Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Medicinal and Botanical Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Medicinal and Botanical Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Pharmaceutical Preparation Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Pharmaceutical Preparation Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,In-Vitro Diagnostic Substance Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,In-Vitro Diagnostic Substance Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Biological Product (except Diagnostic) Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Biological Product (except Diagnostic) Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Paint and Coating Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Paint and Coating Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Adhesive Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Adhesive Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Soap and Other Detergent Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Soap and Other Detergent Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Polish and Other Sanitation Good Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Polish and Other Sanitation Good Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Surface Active Agent Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Surface Active Agent Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Toilet Preparation Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Toilet Preparation Manufacturing,Tier 2,Raw Material Flow
+Platinum,Tier 4,Toilet Preparation Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Printing Ink Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Printing Ink Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Explosives Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Explosives Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Custom Compounding of Purchased Resins ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Custom Compounding of Purchased Resins ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,"Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ",Tier 2,Raw Material Flow
+Natural Gas,Tier 4,"Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,All Other Miscellaneous Chemical Product and Preparation Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,All Other Miscellaneous Chemical Product and Preparation Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Plastics Bag and Pouch Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Bag and Pouch Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Bag and Pouch Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Raw Material Flow
+Natural Gas,Tier 4,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Polystyrene Foam Product Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Polystyrene Foam Product Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Urethane and Other Foam Product (except Polystyrene) Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Urethane and Other Foam Product (except Polystyrene) Manufacturing,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Plastics Bottle Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Bottle Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Bottle Manufacturing,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Plastics Plumbing Fixture Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Plastics Plumbing Fixture Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Plastics Plumbing Fixture Manufacturing ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,All Other Plastics Product Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,All Other Plastics Product Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,All Other Plastics Product Manufacturing ,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,Tire Manufacturing (except Retreading) ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Tire Manufacturing (except Retreading) ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Tire Manufacturing (except Retreading) ,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,Tire Retreading ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Tire Retreading ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Tire Retreading ,Tier 2,Raw Material Flow
+Polypropylene,Tier 4,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,All Other Rubber Product Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,All Other Rubber Product Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,All Other Rubber Product Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Raw Material Flow
+Steel,Tier 4,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Raw Material Flow
+Steel,Tier 4,Rolled Steel Shape Manufacturing ,Tier 3,Raw Material Flow
+Steel,Tier 4,Steel Wire Drawing ,Tier 3,Raw Material Flow
+Copper,Tier 4,Steel Wire Drawing ,Tier 3,Raw Material Flow
+Aluminum,Tier 4,Alumina Refining and Primary Aluminum Production ,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Alumina Refining and Primary Aluminum Production ,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Alumina Refining and Primary Aluminum Production ,Tier 3,Raw Material Flow
+Platinum,Tier 4,Alumina Refining and Primary Aluminum Production ,Tier 3,Raw Material Flow
+Aluminum,Tier 4,Secondary Smelting and Alloying of Aluminum ,Tier 3,Raw Material Flow
+Aluminum,Tier 4,"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Raw Material Flow
+Crude Oil,Tier 4,"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Raw Material Flow
+Natural Gas,Tier 4,"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Raw Material Flow
+Platinum,Tier 4,"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Raw Material Flow
+Aluminum,Tier 4,"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Raw Material Flow
+Aluminum,Tier 4,Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Raw Material Flow
+Crude Oil,Tier 4,Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Raw Material Flow
+Natural Gas,Tier 4,Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Raw Material Flow
+Platinum,Tier 4,Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Raw Material Flow
+Copper,Tier 4,"Copper Rolling, Drawing, Extruding, and Alloying",Tier 3,Raw Material Flow
+Aluminum,Tier 4,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Raw Material Flow
+Copper,Tier 4,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Raw Material Flow
+Aluminum,Tier 4,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Raw Material Flow
+Copper,Tier 4,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Raw Material Flow
+Crude Oil,Tier 4,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Raw Material Flow
+Natural Gas,Tier 4,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Raw Material Flow
+Platinum,Tier 4,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Raw Material Flow
+Steel,Tier 4,Iron Foundries ,Tier 3,Raw Material Flow
+Steel,Tier 4,Steel Investment Foundries ,Tier 3,Raw Material Flow
+Steel,Tier 4,Steel Foundries (except Investment) ,Tier 3,Raw Material Flow
+Aluminum,Tier 4,Aluminum Foundries (except Die-Casting) ,Tier 3,Raw Material Flow
+Steel,Tier 4,Iron and Steel Forging ,Tier 2,Raw Material Flow
+Steel,Tier 4,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,Raw Material Flow
+Natural Rubber,Tier 4,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Power Boiler and Heat Exchanger Manufacturing,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Power Boiler and Heat Exchanger Manufacturing,Tier 2,Raw Material Flow
+Platinum,Tier 4,Power Boiler and Heat Exchanger Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Fabricated Wire Product Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Farm Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Farm Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Farm Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Construction Machinery Manufacturing,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Construction Machinery Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Construction Machinery Manufacturing,Tier 2,Raw Material Flow
+Steel,Tier 4,Mining Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Mining Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Mining Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Crude Oil,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Natural Gas,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Platinum,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Food Product Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Food Product Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Food Product Machinery Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Gallium,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Germanium,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Tantalum,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Steel,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Aluminum,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Copper,Tier 4,Semiconductor Machinery Manufacturing ,Tier 3,Raw Material Flow
+Steel,Tier 4,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,All Other Industrial Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,All Other Industrial Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,All Other Industrial Machinery Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Heating Equipment (except Warm Air Furnaces) Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Heating Equipment (except Warm Air Furnaces) Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Heating Equipment (except Warm Air Furnaces) Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Industrial Mold Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Industrial Mold Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Industrial Mold Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Machine Tool Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Machine Tool Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Machine Tool Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Turbine and Turbine Generator Set Units Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Turbine and Turbine Generator Set Units Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Turbine and Turbine Generator Set Units Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,Mechanical Power Transmission Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Mechanical Power Transmission Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Mechanical Power Transmission Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Other Engine Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Other Engine Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Engine Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Air and Gas Compressor Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Air and Gas Compressor Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Air and Gas Compressor Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,Elevator and Moving Stairway Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Elevator and Moving Stairway Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Elevator and Moving Stairway Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Conveyor and Conveying Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Conveyor and Conveying Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Conveyor and Conveying Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Raw Material Flow
+Aluminum,Tier 4,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,Power-Driven Handtool Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Power-Driven Handtool Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Power-Driven Handtool Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Welding and Soldering Equipment Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Welding and Soldering Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Welding and Soldering Equipment Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Packaging Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Packaging Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Packaging Machinery Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Industrial Process Furnace and Oven Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Industrial Process Furnace and Oven Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Industrial Process Furnace and Oven Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Fluid Power Cylinder and Actuator Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Fluid Power Cylinder and Actuator Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Fluid Power Cylinder and Actuator Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Fluid Power Pump and Motor Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,Fluid Power Pump and Motor Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Fluid Power Pump and Motor Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Raw Material Flow
+Aluminum,Tier 4,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Electronic Computer Manufacturing ,Tier 2,Raw Material Flow
+Gallium,Tier 4,Electronic Computer Manufacturing ,Tier 2,Raw Material Flow
+Germanium,Tier 4,Electronic Computer Manufacturing ,Tier 2,Raw Material Flow
+Tantalum,Tier 4,Electronic Computer Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Electronic Computer Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Computer Storage Device Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Computer Storage Device Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Telephone Apparatus Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Telephone Apparatus Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Other Communications Equipment Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Communications Equipment Manufacturing,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Audio and Video Equipment Manufacturing,Tier 2,Raw Material Flow
+Copper,Tier 4,Audio and Video Equipment Manufacturing,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Bare Printed Circuit Board Manufacturing  ,Tier 2,Raw Material Flow
+Copper,Tier 4,Bare Printed Circuit Board Manufacturing  ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Semiconductor and Related Device Manufacturing ,Tier 3,Raw Material Flow
+Gallium,Tier 4,Semiconductor and Related Device Manufacturing ,Tier 3,Raw Material Flow
+Germanium,Tier 4,Semiconductor and Related Device Manufacturing ,Tier 3,Raw Material Flow
+Tantalum,Tier 4,Semiconductor and Related Device Manufacturing ,Tier 3,Raw Material Flow
+Copper,Tier 4,Semiconductor and Related Device Manufacturing ,Tier 3,Raw Material Flow
+Polysilicon,Tier 4,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Raw Material Flow
+Crude Oil,Tier 4,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Raw Material Flow
+Natural Gas,Tier 4,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Raw Material Flow
+Platinum,Tier 4,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Electronic Connector Manufacturing ,Tier 2,Raw Material Flow
+Gallium,Tier 4,Electronic Connector Manufacturing ,Tier 2,Raw Material Flow
+Germanium,Tier 4,Electronic Connector Manufacturing ,Tier 2,Raw Material Flow
+Tantalum,Tier 4,Electronic Connector Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Electronic Connector Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Raw Material Flow
+Gallium,Tier 4,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Raw Material Flow
+Germanium,Tier 4,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Raw Material Flow
+Tantalum,Tier 4,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Other Electronic Component Manufacturing ,Tier 2,Raw Material Flow
+Gallium,Tier 4,Other Electronic Component Manufacturing ,Tier 2,Raw Material Flow
+Germanium,Tier 4,Other Electronic Component Manufacturing ,Tier 2,Raw Material Flow
+Tantalum,Tier 4,Other Electronic Component Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Electronic Component Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Electromedical and Electrotherapeutic Apparatus Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Electromedical and Electrotherapeutic Apparatus Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing ",Tier 2,Raw Material Flow
+Steel,Tier 4,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Raw Material Flow
+Aluminum,Tier 4,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Raw Material Flow
+Copper,Tier 4,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Raw Material Flow
+Polysilicon,Tier 4,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Raw Material Flow
+Polysilicon,Tier 4,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ",Tier 2,Raw Material Flow
+Copper,Tier 4,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ",Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Totalizing Fluid Meter and Counting Device Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Totalizing Fluid Meter and Counting Device Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals ,Tier 2,Raw Material Flow
+Copper,Tier 4,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Analytical Laboratory Instrument Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Analytical Laboratory Instrument Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Irradiation Apparatus Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Irradiation Apparatus Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Other Measuring and Controlling Device Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Measuring and Controlling Device Manufacturing ,Tier 2,Raw Material Flow
+Polysilicon,Tier 4,Manufacturing and Reproducing Magnetic and Optical Media ,Tier 2,Raw Material Flow
+Copper,Tier 4,Manufacturing and Reproducing Magnetic and Optical Media ,Tier 2,Raw Material Flow
+Lithium Carbonate,Tier 4,Battery Manufacturing ,Tier 2,Raw Material Flow
+Cobalt,Tier 4,Battery Manufacturing ,Tier 2,Raw Material Flow
+Nickel,Tier 4,Battery Manufacturing ,Tier 2,Raw Material Flow
+Copper,Tier 4,Other Communication and Energy Wire Manufacturing ,Tier 2,Raw Material Flow
+Steel,Tier 4,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Raw Material Flow
+Copper,Tier 4,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Body Manufacturing ,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Body Manufacturing ,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Body Manufacturing ,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Body Manufacturing ,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Polysilicon,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Gallium,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Germanium,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Tantalum,Tier 4,Motor Vehicle Electrical and Electronic Equipment Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Brake System Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Brake System Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Brake System Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Brake System Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Transmission and Power Train Parts Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Transmission and Power Train Parts Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Transmission and Power Train Parts Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Transmission and Power Train Parts Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Seating and Interior Trim Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Seating and Interior Trim Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Seating and Interior Trim Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Seating and Interior Trim Manufacturing,Tier 1,Raw Material Flow
+Steel,Tier 4,Motor Vehicle Metal Stamping,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Motor Vehicle Metal Stamping,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Motor Vehicle Metal Stamping,Tier 1,Raw Material Flow
+Copper,Tier 4,Motor Vehicle Metal Stamping,Tier 1,Raw Material Flow
+Steel,Tier 4,Other Motor Vehicle Parts Manufacturing,Tier 1,Raw Material Flow
+Aluminum,Tier 4,Other Motor Vehicle Parts Manufacturing,Tier 1,Raw Material Flow
+Natural Rubber,Tier 4,Other Motor Vehicle Parts Manufacturing,Tier 1,Raw Material Flow
+Copper,Tier 4,Other Motor Vehicle Parts Manufacturing,Tier 1,Raw Material Flow
+Polysilicon,Tier 4,Semiconductor and Other Electronic Component Manufacturing,Tier 3,Raw Material Flow
+Gallium,Tier 4,Semiconductor and Other Electronic Component Manufacturing,Tier 3,Raw Material Flow
+Germanium,Tier 4,Semiconductor and Other Electronic Component Manufacturing,Tier 3,Raw Material Flow
+Tantalum,Tier 4,Semiconductor and Other Electronic Component Manufacturing,Tier 3,Raw Material Flow
+Copper,Tier 4,Semiconductor and Other Electronic Component Manufacturing,Tier 3,Raw Material Flow
+Petrochemical Manufacturing,Tier 3,Fats and Oils Refining and Blending ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Petroleum Refineries,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Material and Resin Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Synthetic Rubber Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Bag and Pouch Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Bottle Manufacturing,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Plastics Plumbing Fixture Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,All Other Plastics Product Manufacturing ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Chemical Feedstock
+Petrochemical Manufacturing,Tier 3,All Other Rubber Product Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Fats and Oils Refining and Blending ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Petroleum Refineries,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Material and Resin Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Synthetic Rubber Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Bag and Pouch Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Bottle Manufacturing,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Plastics Plumbing Fixture Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,All Other Plastics Product Manufacturing ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Chemical Feedstock
+Other Basic Inorganic Chemical Manufacturing ,Tier 3,All Other Rubber Product Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Fats and Oils Refining and Blending ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Petroleum Refineries,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Material and Resin Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Synthetic Rubber Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Bag and Pouch Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Bottle Manufacturing,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Plastics Plumbing Fixture Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,All Other Plastics Product Manufacturing ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Chemical Feedstock
+"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",Tier 3,All Other Rubber Product Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Fats and Oils Refining and Blending ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Petroleum Refineries,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Material and Resin Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Synthetic Rubber Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Bag and Pouch Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Bottle Manufacturing,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Plastics Plumbing Fixture Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,All Other Plastics Product Manufacturing ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,Rubber Product Manufacturing for Mechanical Use ,Tier 2,Chemical Feedstock
+All Other Basic Organic Chemical Manufacturing ,Tier 3,All Other Rubber Product Manufacturing ,Tier 2,Chemical Feedstock
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Iron and Steel Mills and Ferroalloy Manufacturing ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Rolled Steel Shape Manufacturing ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Steel Wire Drawing ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Alumina Refining and Primary Aluminum Production ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Secondary Smelting and Alloying of Aluminum ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+"Aluminum Sheet, Plate, and Foil Manufacturing ",Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+"Other Aluminum Rolling, Drawing, and Extruding ",Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Nonferrous Metal (except Aluminum) Smelting and Refining ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Steel Investment Foundries ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Steel Foundries (except Investment) ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Nonferrous Metal Die-Casting Foundries ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Aluminum Foundries (except Die-Casting) ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Prefabricated Wood Building Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Prefabricated Metal Building and Component Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Fabricated Structural Metal Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Other Fabricated Wire Product Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Fabricated Pipe and Pipe Fitting Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Farm Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Construction Machinery Manufacturing,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Mining Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Food Product Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,All Other Industrial Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Commercial and Service Industry Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Packaging Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,Tier 2,Metal Processing
+Other Nonferrous Metal Foundries (except Die-Casting) ,Tier 3,Other Communication and Energy Wire Manufacturing ,Tier 2,Metal Processing
+Semiconductor Machinery Manufacturing ,Tier 3,Electronic Computer Manufacturing ,Tier 2,Component Supply
+Semiconductor Machinery Manufacturing ,Tier 3,Computer Storage Device Manufacturing ,Tier 2,Component Supply
+Semiconductor Machinery Manufacturing ,Tier 3,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Component Supply
+Semiconductor Machinery Manufacturing ,Tier 3,Electronic Connector Manufacturing ,Tier 2,Component Supply
+Semiconductor Machinery Manufacturing ,Tier 3,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Component Supply
+Semiconductor Machinery Manufacturing ,Tier 3,Other Electronic Component Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Electronic Computer Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Computer Storage Device Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Electronic Connector Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Component Supply
+Semiconductor and Related Device Manufacturing ,Tier 3,Other Electronic Component Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Electronic Computer Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Computer Storage Device Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Electronic Connector Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Component Supply
+Semiconductor and Other Electronic Component Manufacturing,Tier 3,Other Electronic Component Manufacturing ,Tier 2,Component Supply
+Fats and Oils Refining and Blending ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Fats and Oils Refining and Blending ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Narrow Fabric Mills and Schiffli Machine Embroidery,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Narrow Fabric Mills and Schiffli Machine Embroidery,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Narrow Fabric Mills and Schiffli Machine Embroidery,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Petroleum Refineries,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Refineries,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Petroleum Lubricating Oil and Grease Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Plastics Material and Resin Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Material and Resin Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Synthetic Rubber Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Toilet Preparation Manufacturing,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Toilet Preparation Manufacturing,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Plastics Bag and Pouch Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Bag and Pouch Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Unlaminated Plastics Profile Shape Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Pipe and Pipe Fitting Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Bottle Manufacturing,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Plastics Plumbing Fixture Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+All Other Plastics Product Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Rubber and Plastics Hoses and Belting Manufacturing,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+Rubber Product Manufacturing for Mechanical Use ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Packaging / Component Supply
+All Other Rubber Product Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Packaging / Component Supply
+All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Powder Metallurgy Part Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Powder Metallurgy Part Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Powder Metallurgy Part Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ",Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Prefabricated Metal Building and Component Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Prefabricated Metal Building and Component Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Prefabricated Metal Building and Component Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Fabricated Structural Metal Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Fabricated Structural Metal Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Fabricated Structural Metal Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Metal Window and Door Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Metal Window and Door Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Metal Window and Door Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Sheet Metal Work Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Sheet Metal Work Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Sheet Metal Work Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Ornamental and Architectural Metal Work Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Ornamental and Architectural Metal Work Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Ornamental and Architectural Metal Work Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Power Boiler and Heat Exchanger Manufacturing,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Metal Tank (Heavy Gauge) Manufacturing,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Metal Tank (Heavy Gauge) Manufacturing,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Metal Tank (Heavy Gauge) Manufacturing,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Metal Can Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Metal Can Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Metal Can Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Other Metal Container Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Other Metal Container Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Other Metal Container Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Machine Shops,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Machine Shops,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Machine Shops,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Metal Heat Treating ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Metal Heat Treating ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Metal Heat Treating ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Other Metal Valve and Pipe Fitting Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Other Metal Valve and Pipe Fitting Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Other Metal Valve and Pipe Fitting Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+All Other Miscellaneous Fabricated Metal Product Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Farm Machinery and Equipment Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Farm Machinery and Equipment Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Farm Machinery and Equipment Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Construction Machinery Manufacturing,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Construction Machinery Manufacturing,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Construction Machinery Manufacturing,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Mining Machinery and Equipment Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Mining Machinery and Equipment Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Mining Machinery and Equipment Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Oil and Gas Field Machinery and Equipment Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Food Product Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Food Product Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Food Product Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+"Sawmill, Woodworking, and Paper Machinery Manufacturing ",Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+All Other Industrial Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+All Other Industrial Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+All Other Industrial Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Commercial and Service Industry Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Commercial and Service Industry Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Commercial and Service Industry Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Cutting Tool and Machine Tool Accessory Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Machine Tool Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Machine Tool Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Machine Tool Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Rolling Mill and Other Metalworking Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Packaging Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+Packaging Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+Packaging Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Industrial Parts
+All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Industrial Parts
+All Other Miscellaneous General Purpose Machinery Manufacturing ,Tier 2,All Other Transportation Equipment Manufacturing ,Tier 1,Industrial Parts
+Electronic Computer Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Electronic Computer Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
+Computer Storage Device Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Computer Storage Device Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
+Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Dog and Cat Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Other Animal Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Frozen Specialty Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Dried and Dehydrated Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Seafood Product Preparation and Packaging,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Other Snack Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,Perishable Prepared Food Manufacturing ,Tier 1,Ingredient Flow
+"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",Tier 2,All Other Miscellaneous Food Manufacturing ,Tier 1,Ingredient Flow
+Electronic Connector Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Electronic Connector Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
+Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Printed Circuit Assembly (Electronic Assembly) Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
+Other Electronic Component Manufacturing ,Tier 2,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",Tier 1,Avionics / Nav Supply
+Other Electronic Component Manufacturing ,Tier 2,Automobile and Light Duty Motor Vehicle Manufacturing ,Tier 1,Avionics / Nav Supply
