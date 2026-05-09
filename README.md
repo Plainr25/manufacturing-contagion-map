@@ -51,6 +51,9 @@ The Contagion Score quantifies systemic volatility.
 Import the `Edges` and `Nodes` CSVs directly into network visualization tools like Gephi, Neo4j, or Python's NetworkX to build an interactive, force-directed graph of macroeconomic risk.
 
 ---
+If you find this industrial mapping useful for your own research, please leave a ⭐ on GitHub—it helps us keep the project open-source
+
+---
 
 **Contact for Enterprise Inquiry:**
 Email Mark: `mark(at)plainr(dot)io`
