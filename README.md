@@ -6,7 +6,6 @@
 
 ### [ 📊 Launch the Interactive Dashboard ](https://huggingface.co/spaces/Plainr-26/README)
 
-**[ 🔗 Join the June 2026 Beta Drop ](https://a7af2a54.sibforms.com/serve/MUIFAK4KiE6r-UBeNPKiGd_hFht_dPE_p8oCs2NOx53N8abu_SQe9HTVgRxIlg4HlA9cOsVmYs2pkeAZHGZ0XlDh2RBLa_bZZLLiaXPKpUTjgr72heyx-lYwgPb0B8dnkWsj7lw-M1jEOnzP7Oc8o12c0SG3UYsmQZRaWacaAWgweWru9S9fWYne4o43aByc7BqGSjRvnZcHXYcQ)**
 
 </div>
 
