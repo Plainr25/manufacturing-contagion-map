@@ -1,6 +1,6 @@
 # 🌐 NAICS Contagion Map: The Physical Economy Visualized
 
-📈 Trending: This project reached 10K+ views on r/Economics within 48 hours of release
+📈 Trending: This project reached 11K+ views on r/Economics within 48 hours of release
 
 <div align="center">
 
