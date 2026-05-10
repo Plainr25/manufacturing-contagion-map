@@ -57,4 +57,5 @@ If you find this industrial mapping useful for your own research, please leave a
 ---
 
 **Contact for Enterprise Inquiry:**
-Email Mark: `mark(at)plainr(dot)io`
+Email Mark: [mark@plainr.io](mailto:mark@plainr.io)
+
