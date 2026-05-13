@@ -1,6 +1,9 @@
 # 🌐 NAICS Contagion Map: The Physical Economy Visualized
 
-📈 Trending: This project reached 11K+ views on r/Economics within 48 hours of release
+![Hugging Face Downloads](https://img.shields.io/badge/dynamic/json?query=$.downloads&url=https://huggingface.co/api/datasets/Plainr-26/contagion_map&label=HF%20Downloads&color=blue&logo=huggingface)
+
+
+📈 Trending: This project reached 15K+ views on r/Economics and r/Quant within 48 hours of release
 
 <div align="center">
 
